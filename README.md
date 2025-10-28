@@ -8,7 +8,7 @@ A simple, responsive Angular js with SQL integration built using HTML, CSS, and 
 
 🚀 Features
 
-Single-page layout with smooth navigation
+Angular js with smooth navigation
 
 Dynamic content updates using JavaScript
 
@@ -50,7 +50,7 @@ single-page-app/
 
 1. Clone the repository
 
-git clone https://github.com/Rohini588309/single-page-app.git
+git clone https://github.com/Rohini588309/Angular-JS-with-SQL-Integration.git
 
 
 2. Navigate to the folder
